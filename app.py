@@ -1,1 +1,1 @@
-print("Hello DevSecOps")
+print("version 2")
